@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/db"
+            android:title="DashBoard"
+            android:icon="@drawable/dash"/>
+        <item
+            android:id="@+id/event"
+            android:title="Events"
+            android:icon="@drawable/events"/>
+        <item
+            android:id="@+id/search"
+            android:title="Search"
+            android:icon="@drawable/search"/>
+        <item
+            android:id="@+id/settings"
+            android:title="Settings"
+            android:icon="@drawable/settings"/>
+        <item
+            android:id="@+id/activities"
+            android:title="Activities"
+            android:icon="@drawable/activities"/>
+        <item
+            android:id="@+id/logout"
+            android:title="Logout"
+            android:icon="@drawable/logout"/>
+    </group>
+
+
+    <item android:title="section1">
+        <menu>
+            <item
+                android:title="scetion1"
+                android:id="@+id/section1"
+                android:icon="@drawable/events"/>
+            <item
+                android:title="scetion1"
+                android:id="@+id/section2"
+                android:icon="@drawable/events"/>
+            <item
+                android:title="scetion1"
+                android:id="@+id/section3"
+                android:icon="@drawable/events"/>
+        </menu>
+    </item>
+    <item android:title="section2">
+        <menu>
+            <item
+                android:title="scetion2"
+                android:id="@+id/section4"
+                android:icon="@drawable/events"/>
+            <item
+                android:title="scetion2"
+                android:id="@+id/section5"
+                android:icon="@drawable/events"/>
+            <item
+                android:title="scetion2"
+                android:id="@+id/section6"
+                android:icon="@drawable/events"/>
+        </menu>
+    </item>
+</menu>

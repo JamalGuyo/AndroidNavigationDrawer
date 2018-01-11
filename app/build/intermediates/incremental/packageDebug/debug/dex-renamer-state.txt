@@ -1,0 +1,4 @@
+#Thu Jan 04 12:24:47 EAT 2018
+base.0=/root/AndroidStudioProjects/2018NavigationDrawer/app/build/intermediates/transforms/dexMerger/debug/19
+renamed.0=classes.dex
+file.0=/root/AndroidStudioProjects/2018NavigationDrawer/app/build/intermediates/transforms/dexMerger/debug/19/classes.dex
